@@ -8,7 +8,7 @@ void main() {
           home: Scaffold(
             backgroundColor: Colors.white30,
             appBar: AppBar(
-              title: Text("Boss Level App by Hammad"),
+              title: Text("Boss Level App"),
               backgroundColor: Colors.white10,
             ),
             body: BossLevel(),
